@@ -4,43 +4,18 @@
 
 <p align="center">
   <a href="https://github.com/leofratu"><img src="https://img.shields.io/github/followers/leofratu?label=Followers&style=for-the-badge" alt="GitHub followers" /></a>
-  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-0f172a?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-0284c7?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Building%20Dwelon-0f172a?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Repository-Private-0284c7?style=for-the-badge" alt="Repository Visibility" />
 </p>
 
 ## About
 I build practical, maintainable software with a strong focus on performance, developer experience, and product quality.  
 I enjoy turning complex requirements into clean, testable systems that are easy to evolve.
 
-## Featured Projects
-Replace the repository names and one-line descriptions below with your real projects.
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🚀 <a href="https://github.com/leofratu/project-one">project-one</a></h3>
-      <p>Production-ready app with clear architecture and polished UX.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code></p>
-    </td>
-    <td width="50%">
-      <h3>⚙️ <a href="https://github.com/leofratu/project-two">project-two</a></h3>
-      <p>Scalable backend API designed for reliability and speed.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎯 <a href="https://github.com/leofratu/project-three">project-three</a></h3>
-      <p>Modern web experience with strong component architecture.</p>
-      <p><code>Next.js</code> <code>Tailwind</code> <code>Prisma</code></p>
-    </td>
-    <td width="50%">
-      <h3>🧩 <a href="https://github.com/leofratu/project-four">project-four</a></h3>
-      <p>Robust service with caching, background tasks, and monitoring.</p>
-      <p><code>Flask</code> <code>Redis</code> <code>Docker</code></p>
-    </td>
-  </tr>
-</table>
+## Current Focus
+- Building `Dwelon` (private repository).
+- Improving architecture, performance, and product reliability.
+- Shipping features with testable, maintainable code.
 
 ## Tech Stack
 <p>
@@ -58,7 +33,11 @@ Replace the repository names and one-line descriptions below with your real proj
 ## GitHub Analytics
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=leofratu&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofratu&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=leofratu&hide_border=true&background=FFFFFF00&ring=2563EB&fire=0284C7&currStreakLabel=0F172A" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leofratu&theme=transparent" alt="Commit graph" />
 </p>
 
 <p align="center">
@@ -67,8 +46,7 @@ Replace the repository names and one-line descriptions below with your real proj
 
 ## Connect
 - GitHub: [@leofratu](https://github.com/leofratu)
-- LinkedIn: [Add your LinkedIn URL](https://linkedin.com/in/your-profile)
-- Portfolio: [Add your portfolio URL](https://your-domain.com)
+- LinkedIn: [leo-fratu-b322b9300](https://www.linkedin.com/in/leo-fratu-b322b9300/)
 
 ---
 
