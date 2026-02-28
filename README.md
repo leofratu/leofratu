@@ -32,7 +32,12 @@ I enjoy turning complex requirements into clean, testable systems that are easy 
 
 ## GitHub Analytics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leofratu&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leofratu&theme=github" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leofratu&theme=github" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leofratu&theme=github" alt="Most commit language" />
   <img height="165" src="https://streak-stats.demolab.com?user=leofratu&hide_border=true&background=FFFFFF00&ring=2563EB&fire=0284C7&currStreakLabel=0F172A" alt="GitHub streak" />
 </p>
 
