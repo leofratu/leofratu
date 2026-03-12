@@ -22,9 +22,9 @@ I enjoy turning complex requirements into clean, testable systems that are easy 
 |---|---|---|
 | **Dwelon** | Main project | 🔒 Private / Active |
 | **NootStudy** | Personal study platform, science-based learning | ✅ Maintained |
-| **Research Paper AI** | AI-powered research paper tooling — built for the Mistral Hackathon | ⚠️ Deprecated |
+| **Research Paper AI** | AI-powered research paper tooling - built for the Mistral Hackathon | ⚠️ Deprecated |
 | **Paper89** | Early paper-related repo | ⚠️ Deprecated |
-| **Codex-UI** | My own UI project — deprecated after OpenAI released something with the same name | ⚠️ Deprecated |
+| **Codex-UI** | My own UI project - deprecated after OpenAI released something with the same name | ⚠️ Deprecated |
 | **Aura Tracker** | Started as a joke project, grown into a personal legacy app | 🛠️ Legacy |
 
 ## Tech Stack
