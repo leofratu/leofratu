@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=Leo%20Fratu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Reliable%20Digital%20Products&descAlignY=56&descSize=18" alt="header" />
 </p>
-
 <p align="center">
   <a href="https://github.com/leofratu"><img src="https://img.shields.io/github/followers/leofratu?label=Followers&style=for-the-badge" alt="GitHub followers" /></a>
   <img src="https://img.shields.io/badge/Status-Building%20Dwelon-0f172a?style=for-the-badge" alt="Status" />
@@ -16,6 +15,17 @@ I enjoy turning complex requirements into clean, testable systems that are easy 
 - Building `Dwelon` (private repository).
 - Improving architecture, performance, and product reliability.
 - Shipping features with testable, maintainable code.
+
+## Projects
+
+| Project | Description | Status |
+|---|---|---|
+| **Dwelon** | Main project | 🔒 Private / Active |
+| **NootStudy** | Personal study platform, science-based learning | ✅ Maintained |
+| **Research Paper AI** | AI-powered research paper tooling — built for the Mistral Hackathon | ⚠️ Deprecated |
+| **Paper89** | Early paper-related repo | ⚠️ Deprecated |
+| **Codex-UI** | My own UI project — deprecated after OpenAI released something with the same name | ⚠️ Deprecated |
+| **Aura Tracker** | Started as a joke project, grown into a personal legacy app | 🛠️ Legacy / Improving |
 
 ## Tech Stack
 <p>
@@ -35,16 +45,12 @@ I enjoy turning complex requirements into clean, testable systems that are easy 
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leofratu&theme=github" alt="GitHub stats" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leofratu&theme=github" alt="Top languages" />
 </p>
-
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leofratu&theme=github" alt="Most commit language" />
-  <img height="165" src="https://streak-stats.demolab.com?user=leofratu&hide_border=true&background=FFFFFF00&ring=2563EB&fire=0284C7&currStreakLabel=0F172A" alt="GitHub streak" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leofratu&theme=transparent" alt="Commit graph" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leofratu&bg_color=ffffff&color=0f172a&line=2563eb&point=0ea5e9&area=true&hide_border=true" alt="Contribution graph" />
 </p>
@@ -54,5 +60,4 @@ I enjoy turning complex requirements into clean, testable systems that are easy 
 - LinkedIn: [leo-fratu-b322b9300](https://www.linkedin.com/in/leo-fratu-b322b9300/)
 
 ---
-
 <p align="center"><i>Thanks for visiting my profile.</i></p>
