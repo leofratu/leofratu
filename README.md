@@ -12,20 +12,18 @@ I build practical, maintainable software with a strong focus on performance, dev
 I enjoy turning complex requirements into clean, testable systems that are easy to evolve.
 
 ## Current Focus
-- Building `Dwelon` (private repository).
-- Improving architecture, performance, and product reliability.
-- Shipping features with testable, maintainable code.
+- Executing the "Full Agentic" launch for `Dwelon` (Target: May 2026).
+- Building autonomous quantitative trading engines (`poly-alpha`).
+- Advancing cognitive architectures with native long-term memory systems.
 
 ## Projects
 
 | Project | Description | Status |
 |---|---|---|
-| **Dwelon** | Main project | 🔒 Private / Active |
-| **NootStudy** | Personal study platform, science-based learning | ✅ Maintained |
-| **Research Paper AI** | AI-powered research paper tooling - built for the Mistral Hackathon | ⚠️ Deprecated |
-| **Paper89** | Early paper-related repo | ⚠️ Deprecated |
-| **Codex-UI** | My own UI project - deprecated after OpenAI released something with the same name | ⚠️ Deprecated |
-| **Aura Tracker** | Started as a joke project, grown into a personal legacy app | 🛠️ Legacy |
+| **Dwelon** | 🏡 World's first fully agentic property management platform. | 🔒 Private / Active |
+| **Poly-Alpha** | 📈 Autonomous quantitative prediction market execution engine (Shin debiasing, Gemini Tail-Risk). | 🔒 Private / Live |
+| **NootStudy (IB Vault)** | 🧠 iOS SwiftData spaced-repetition learning platform with Gemini ARIA companion. | ✅ Active |
+| **OpenClaw Plugins** | 🤖 Native FTS5 semantic search and nightly memory consolidation systems. | ✅ Maintained |
 
 ## Tech Stack
 <p>
@@ -43,16 +41,6 @@ I enjoy turning complex requirements into clean, testable systems that are easy 
 ## GitHub Analytics
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leofratu&theme=github" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leofratu&theme=github" alt="Top languages" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leofratu&theme=github" alt="Most commit language" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leofratu&theme=transparent" alt="Commit graph" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leofratu&bg_color=ffffff&color=0f172a&line=2563eb&point=0ea5e9&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ## Connect
