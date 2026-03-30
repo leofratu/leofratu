@@ -20,14 +20,15 @@ I enjoy turning complex requirements into clean, testable systems that are easy 
 
 | Project | Description | Status |
 |---|---|---|
-| **Dwelon** | 🏡 World's first fully agentic property management platform. | 🔒 Private / Active |
-| **Dwelon x HiPer It** | 🏗️ White-labeled IoT sensor/anomaly integration for the Dwelon Enterprise tier. | ✅ Active |
-| **Poly-Alpha** | 📈 Autonomous quantitative prediction market execution engine (Shin debiasing, Gemini Tail-Risk). | 🔒 Private / Live |
-| **NootStudy (IB Vault)** | 🧠 iOS SwiftData spaced-repetition learning platform with Gemini ARIA companion. | ✅ Active |
-| **OpenClaw Plugins** | 🤖 Native FTS5 semantic search and nightly memory consolidation systems. | ✅ Maintained |
-| **Health Sync** | 🍎 Apple Health SQLite synchronization daemon with strict UTC boundary mapping. | ✅ Maintained |
-| **Poly-Arb Scanner** | 💱 Cross-Asset Event Arbitrage Engine (Polymarket vs TradFi options chains). | ⚠️ Deprecated |
-| **Hermes Agent** | 🧠 External multi-agent orchestration framework. | ⚠️ Canceled |
+| [**Dwelon**](https://github.com/leofratu) | 🏡 World's first fully agentic property management platform. | 🔒 Private / Active |
+| [**Poly-Alpha**](https://github.com/leofratu/poly-alpha) | 📈 Autonomous quantitative prediction market execution engine (Shin debiasing, Gemini Tail-Risk). | 🔒 Private / Live |
+| [**NootStudy (IB Vault)**](https://github.com/leofratu/nootstudy) | 🧠 iOS SwiftData spaced-repetition learning platform with Gemini ARIA companion. | ✅ Maintained |
+| [**Symphony**](https://github.com/leofratu/symphony) | 🛠️ Agentic orchestration layer for autonomous project implementation runs. | ✅ Maintained |
+| [**Mistral Hackathon**](https://github.com/leofratu/mistral-hackathon) | 🤖 AI-powered research paper tooling. | ⚠️ Deprecated |
+| [**Poly-Arb Scanner**](https://github.com/leofratu/poly-arb-scanner) | 💱 Cross-Asset Event Arbitrage Engine. | ⚠️ Deprecated |
+| [**Hermes Agent**](https://github.com/leofratu/hermes-agent) | 🧠 The agent that grows with you. | ⚠️ Deprecated |
+| [**AuraTracker**](https://github.com/leofratu/AuraTracker) | 📈 iOS app tracking aura using an AI model. | 🛠️ Legacy |
+| [**Codex-UI**](https://github.com/leofratu/Codex-UI) | 💻 Personal UI project (predates OpenAI Codex). | 🛠️ Legacy |
 
 ## Tech Stack
 <p>
