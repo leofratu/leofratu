@@ -8,13 +8,9 @@
 </p>
 
 ## About
-I build practical, maintainable software with a strong focus on performance, developer experience, and product quality.  
-I enjoy turning complex requirements into clean, testable systems that are easy to evolve.
+building dwelon.
 
-## Current Focus
-- Executing the "Full Agentic" launch for `Dwelon` (Target: May 2026).
-- Building autonomous quantitative trading engines (`poly-alpha`).
-- Advancing cognitive architectures with native long-term memory systems.
+
 
 ## Projects
 
