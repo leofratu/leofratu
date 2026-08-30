@@ -39,7 +39,7 @@ SwiftData-backed learning app with a Gemini ARIA AI companion. Designed around t
 | [**arishealth**](https://github.com/leofratu/arishealth) | Health & fitness tracker (mobile) | TS, React | ✅ Public |
 | [**mistral-hackathon**](https://github.com/leofratu/mistral-hackathon) | AI-powered research paper tooling | Python | ⚠️ Archived |
 | [**poly-arb-scanner**](https://github.com/leofratu/poly-arb-scanner) | Cross-asset event arbitrage scanner | Python | ⚠️ Archived |
-| [**AuraTracker**](https://github.com/leofratu/AuraTracker) | iOS aura tracking with AI | HTML | 🛠️ Legacy |
+| [**Voice Tracker**](https://github.com/leofratu/AuraTracker) | iOS aura tracking with AI | HTML | 🛠️ Legacy |
 | [**Codex-UI**](https://github.com/leofratu/Codex-UI) | Personal UI project | JS | 🛠️ Legacy |
 
 ---
